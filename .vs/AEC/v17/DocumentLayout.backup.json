@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -124,7 +124,7 @@
               "RelativeDocumentMoniker": "BLL.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\UnitTest1.cs",
               "RelativeToolTip": "BLL.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T18:23:14.781Z",
               "EditorCaption": ""
@@ -271,8 +271,7 @@
               "RelativeToolTip": "BLL\\DTO\\OperationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:23:57.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:23:57.735Z"
             },
             {
               "$type": "Document",
