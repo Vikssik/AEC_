@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\trash\\ТРПЗ\\AEC_\\BLL.Tests\\BLL.Tests.csproj": {}
+    "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\BLL.Tests.csproj": {}
   },
   "projects": {
-    "D:\\trash\\ТРПЗ\\AEC_\\BLL.Tests\\BLL.Tests.csproj": {
+    "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\BLL.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trash\\ТРПЗ\\AEC_\\BLL.Tests\\BLL.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\BLL.Tests.csproj",
         "projectName": "BLL.Tests",
-        "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\BLL.Tests\\BLL.Tests.csproj",
-        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "D:\\trash\\ТРПЗ\\AEC_\\BLL.Tests\\obj\\",
+        "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\BLL.Tests.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\trash\\ТРПЗ\\AEC_\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\BLL\\BLL.csproj"
+              "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\BLL.csproj"
               },
-              "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj"
+              "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj"
               }
             }
           }
@@ -47,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -90,21 +94,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\trash\\ТРПЗ\\AEC_\\BLL\\BLL.csproj": {
+    "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trash\\ТРПЗ\\AEC_\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "D:\\trash\\ТРПЗ\\AEC_\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,18 +120,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\trash\\ТРПЗ\\AEC_\\CCL\\CCL.csproj": {
-                "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\CCL\\CCL.csproj"
+              "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CCL\\CCL.csproj": {
+                "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CCL\\CCL.csproj"
               },
-              "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj"
+              "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj"
               }
             }
           }
@@ -137,7 +144,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -164,21 +172,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\trash\\ТРПЗ\\AEC_\\CCL\\CCL.csproj": {
+    "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CCL\\CCL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trash\\ТРПЗ\\AEC_\\CCL\\CCL.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CCL\\CCL.csproj",
         "projectName": "CCL",
-        "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\CCL\\CCL.csproj",
-        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "D:\\trash\\ТРПЗ\\AEC_\\CCL\\obj\\",
+        "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CCL\\CCL.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CCL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,7 +198,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -204,7 +215,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -225,21 +237,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj": {
+    "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\trash\\ТРПЗ\\AEC_\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "D:\\trash\\ТРПЗ\\AEC_\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -247,7 +263,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -265,7 +280,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -292,7 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
