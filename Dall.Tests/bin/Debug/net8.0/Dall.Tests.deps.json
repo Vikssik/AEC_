@@ -1183,10 +1183,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.0"
         },
         "runtime": {
-          "DAL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DAL.dll": {}
         }
       }
     }

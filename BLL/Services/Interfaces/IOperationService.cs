@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL.DTO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,7 @@ namespace BLL.Services.Interfaces
 {
     public interface IOperationService
     {
-        bool CheckOperationAccess(int userId, string operationName);
+        bool CheckOperationAccess(string operationName);
         IEnumerable<OperationDTO> GetOperationsByRole(string roleName);
     }
 }

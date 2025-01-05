@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL.DTO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,7 @@ namespace BLL.Services.Interfaces
 {
     public interface IPermissionService
     {
-        bool CheckPermission(int userId, string permissionName);
+        bool CheckPermission(string permissionName);
         IEnumerable<PermissionDTO> GetPermissionsByRole(string roleName);
     }
 }

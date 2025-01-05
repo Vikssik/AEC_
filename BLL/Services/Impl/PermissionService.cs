@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
+using BLL.DTO;
+using BLL.Services.Interfaces;
+using Catalog.DAL.EF.Entities.Repositories.Impl.Interfaces;
+using CLL.Security.Identity;
 
 namespace BLL.Services.Impl
 {
@@ -25,9 +29,9 @@ namespace BLL.Services.Impl
         }
 
         // Перевірка доступу до дозволу для користувача
-        public bool CheckPermission(int userId, string permissionName)
+        public bool CheckPermission(string permissionName)
         {
-            var user = _unitOfWork.Users.Get(userId);
+            var user = SecurityContext.GetCurrentUser();
             var userType = user.GetType();
 
             // Технічний спеціаліст має доступ лише до дозволів на обслуговування технічного обладнання та оновлення документації
@@ -60,16 +64,16 @@ namespace BLL.Services.Impl
 
             if (roleName == nameof(TechnicalSpecialist))
             {
-                permissionsEntities = _unitOfWork.Permissions.Find(p => p.Name == "ServiceSensors" || p.Name == "ServiceEquipment" || p.Name == "UpdateDocumentation").ToList();
+                permissionsEntities = _unitOfWork.Permissions.Find(p => p.PermissionName == "ServiceSensors" || p.PermissionName == "ServiceEquipment" || p.PermissionName == "UpdateDocumentation").ToList();
             }
             else if (roleName == nameof(SystemAdministrator))
             {
-                permissionsEntities = _unitOfWork.Permissions.Find(p => p.Name == "CreateUser" || p.Name == "ReadUser" ||
-                                                                      p.Name == "UpdateUser" || p.Name == "DeleteUser").ToList();
+                permissionsEntities = _unitOfWork.Permissions.Find(p => p.PermissionName == "CreateUser" || p.PermissionName == "ReadUser" ||
+                                                                      p.PermissionName == "UpdateUser" || p.PermissionName == "DeleteUser").ToList();
             }
             else if (roleName == nameof(SafetyInspector))
             {
-                permissionsEntities = _unitOfWork.Permissions.Find(p => p.Name == "AuditSystem" || p.Name == "GenerateSystemReport").ToList();
+                permissionsEntities = _unitOfWork.Permissions.Find(p => p.PermissionName == "AuditSystem" || p.PermissionName == "GenerateSystemReport").ToList();
             }
             else
             {
