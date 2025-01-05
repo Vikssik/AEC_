@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
+using BLL.DTO;
+using BLL.Services.Interfaces;
+using Catalog.DAL.EF.Entities.Repositories.Impl.Interfaces;
+using CLL.Security.Identity;
 
 namespace BLL.Services.Impl
 {
@@ -25,9 +29,9 @@ namespace BLL.Services.Impl
         }
 
         // Перевірка доступу до операції для користувача
-        public bool CheckOperationAccess(int userId, string operationName)
+        public bool CheckOperationAccess(string operationName)
         {
-            var user = _unitOfWork.Users.Get(userId);
+            var user = SecurityContext.GetCurrentUser();
             var userType = user.GetType();
 
             // Технічний спеціаліст може виконувати лише обслуговування технічного обладнання та оновлення документації
@@ -60,16 +64,16 @@ namespace BLL.Services.Impl
 
             if (roleName == nameof(TechnicalSpecialist))
             {
-                operationsEntities = _unitOfWork.Operations.Find(o => o.Name == "ServiceSensors" || o.Name == "ServiceEquipment" || o.Name == "UpdateDocumentation").ToList();
+                operationsEntities = _unitOfWork.Operations.Find(o => o.OperationName == "ServiceSensors" || o.OperationName == "ServiceEquipment" || o.OperationName == "UpdateDocumentation").ToList();
             }
             else if (roleName == nameof(SystemAdministrator))
             {
-                operationsEntities = _unitOfWork.Operations.Find(o => o.Name == "CreateUser" || o.Name == "ReadUser" ||
-                                                                      o.Name == "UpdateUser" || o.Name == "DeleteUser").ToList();
+                operationsEntities = _unitOfWork.Operations.Find(o => o.OperationName == "CreateUser" || o.OperationName == "ReadUser" ||
+                                                                      o.OperationName == "UpdateUser" || o.OperationName == "DeleteUser").ToList();
             }
             else if (roleName == nameof(SafetyInspector))
             {
-                operationsEntities = _unitOfWork.Operations.Find(o => o.Name == "AuditSystem" || o.Name == "GenerateSystemReport").ToList();
+                operationsEntities = _unitOfWork.Operations.Find(o => o.OperationName == "AuditSystem" || o.OperationName == "GenerateSystemReport").ToList();
             }
             else
             {

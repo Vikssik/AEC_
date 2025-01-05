@@ -1,109 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\",
+  "WorkspaceRootPath": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll.tests\\permissionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\permissionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll\\services\\impl\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|solutionrelative:bll\\services\\impl\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dall.tests\\dall.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\dall.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dall.tests\\baserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\baserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll\\services\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dall.tests\\permissionrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\permissionrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll\\services\\impl\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|solutionrelative:bll\\services\\impl\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\services\\interfaces\\ioperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\ioperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll\\services\\interfaces\\ioperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\ioperationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\repositories\\impl\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll.tests\\operationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4233FA-8697-4517-9CF7-12CBA249F2CC}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\operationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\ccl\\security\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\cll\\security\\identity\\systemadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|solutionrelative:cll\\security\\identity\\systemadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\ccl\\security\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dall.tests\\operationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\operationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\cll\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|solutionrelative:cll\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\cll\\security\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|solutionrelative:cll\\security\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\cll\\security\\identity\\technicalspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|solutionrelative:cll\\security\\identity\\technicalspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\services\\impl\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\services\\impl\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dall.tests\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\services\\impl\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\services\\impl\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\services\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\bll\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F482D4F-55B0-41B8-B745-0017559EA300}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\repositories\\interfaces\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\repositories\\interfaces\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\cll\\security\\identity\\safetyinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB2FC88-8848-460B-8BB1-205E9EAC93C3}|CLL\\CLL.csproj|solutionrelative:cll\\security\\identity\\safetyinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\ccl\\security\\identity\\technicalspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\technicalspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\ccl\\security\\identity\\systemadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\systemadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\ccl\\security\\identity\\safetyinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685DE34-4634-4FE8-8ADB-BA9D52B77563}|CCL\\CCL.csproj|solutionrelative:ccl\\security\\identity\\safetyinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B837950-5172-431E-8375-B5AF9D0A7393}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dall.tests\\baserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\baserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dall.tests\\permissionrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\permissionrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\repositories\\impl\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dall.tests\\operationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\operationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dall.tests\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C191FB-C826-423C-B5D9-7F7D4AEE041A}|Dall.Tests\\Dall.Tests.csproj|solutionrelative:dall.tests\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\repositories\\interfaces\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\repositories\\interfaces\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|c:\\users\\thinkpad\\documents\\github\\aec_\\dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|d:\\trash\\\u0442\u0440\u043F\u0437\\aec_\\dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97821874-9109-4258-9E33-13C52B9509E1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,318 +118,358 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BLL.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "BLL.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Title": "PermissionServiceTests.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL.Tests\\PermissionServiceTests.cs",
+              "RelativeDocumentMoniker": "BLL.Tests\\PermissionServiceTests.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL.Tests\\PermissionServiceTests.cs",
+              "RelativeToolTip": "BLL.Tests\\PermissionServiceTests.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwFYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:23:14.781Z",
+              "WhenOpened": "2025-01-05T14:41:04.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperationServiceTests.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL.Tests\\OperationServiceTests.cs",
+              "RelativeDocumentMoniker": "BLL.Tests\\OperationServiceTests.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL.Tests\\OperationServiceTests.cs",
+              "RelativeToolTip": "BLL.Tests\\OperationServiceTests.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:22:34.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Impl\\OperationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Impl\\OperationService.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Impl\\OperationService.cs",
+              "RelativeToolTip": "BLL\\Services\\Impl\\OperationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:11:12.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:14:49.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecurityContext.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\SecurityContext.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\SecurityContext.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\SecurityContext.cs",
+              "RelativeToolTip": "CCL\\Security\\SecurityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:10:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\User.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\User.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:10:23.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Impl\\PermissionService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Impl\\PermissionService.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Impl\\PermissionService.cs",
+              "RelativeToolTip": "BLL\\Services\\Impl\\PermissionService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:14:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionDTO.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\DTO\\PermissionDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\PermissionDTO.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\DTO\\PermissionDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\PermissionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:11:10.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\BaseRepositoryTests.cs",
-              "RelativeDocumentMoniker": "Dall.Tests\\BaseRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\BaseRepositoryTests.cs",
-              "RelativeToolTip": "Dall.Tests\\BaseRepositoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IPermissionService.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Interfaces\\IPermissionService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Interfaces\\IPermissionService.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Interfaces\\IPermissionService.cs",
+              "RelativeToolTip": "BLL\\Services\\Interfaces\\IPermissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:45:16.114Z"
+              "WhenOpened": "2025-01-05T14:12:03.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Dall.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\Dall.Tests.csproj",
-              "RelativeDocumentMoniker": "Dall.Tests\\Dall.Tests.csproj",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\Dall.Tests.csproj",
-              "RelativeToolTip": "Dall.Tests\\Dall.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-03T22:44:54.476Z"
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Permission.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Entities\\Permission.cs",
+              "RelativeToolTip": "DAL\\Entities\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:13:00.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepositoryTest.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\UserRepositoryTest.cs",
-              "RelativeDocumentMoniker": "Dall.Tests\\UserRepositoryTest.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\UserRepositoryTest.cs",
-              "RelativeToolTip": "Dall.Tests\\UserRepositoryTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "TechnicalSpecialist.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\TechnicalSpecialist.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\TechnicalSpecialist.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\TechnicalSpecialist.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\TechnicalSpecialist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:28:59.075Z"
+              "WhenOpened": "2025-01-05T14:10:23.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PermissionRepositoryTest.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\PermissionRepositoryTest.cs",
-              "RelativeDocumentMoniker": "Dall.Tests\\PermissionRepositoryTest.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\PermissionRepositoryTest.cs",
-              "RelativeToolTip": "Dall.Tests\\PermissionRepositoryTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "SystemAdministrator.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\SystemAdministrator.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\SystemAdministrator.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\SystemAdministrator.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\SystemAdministrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:28:38.96Z"
+              "WhenOpened": "2025-01-05T14:10:21.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OperationService.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Impl\\OperationService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\Impl\\OperationService.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Impl\\OperationService.cs",
-              "RelativeToolTip": "BLL\\Services\\Impl\\OperationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "SafetyInspector.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\SafetyInspector.cs",
+              "RelativeDocumentMoniker": "CCL\\Security\\Identity\\SafetyInspector.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\CCL\\Security\\Identity\\SafetyInspector.cs",
+              "RelativeToolTip": "CCL\\Security\\Identity\\SafetyInspector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:45:37.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PermissionService.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Impl\\PermissionService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\Impl\\PermissionService.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Impl\\PermissionService.cs",
-              "RelativeToolTip": "BLL\\Services\\Impl\\PermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:45:01.636Z"
+              "WhenOpened": "2025-01-05T14:10:19.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IOperationService.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Interfaces\\IOperationService.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Interfaces\\IOperationService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\Interfaces\\IOperationService.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Interfaces\\IOperationService.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\Services\\Interfaces\\IOperationService.cs",
               "RelativeToolTip": "BLL\\Services\\Interfaces\\IOperationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:43:57.073Z"
+              "WhenOpened": "2025-01-05T14:11:57.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OperationDTO.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\DTO\\OperationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\OperationDTO.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\BLL\\DTO\\OperationDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\OperationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:11:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Entities\\Operation.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Operation.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Entities\\Operation.cs",
+              "RelativeToolTip": "DAL\\Entities\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:09:45.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseRepositoryTests.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\BaseRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Dall.Tests\\BaseRepositoryTests.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\BaseRepositoryTests.cs",
+              "RelativeToolTip": "Dall.Tests\\BaseRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:45:16.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Dall.Tests\\UserRepositoryTest.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\UserRepositoryTest.cs",
+              "RelativeToolTip": "Dall.Tests\\UserRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:28:59.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "IPermissionService.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Interfaces\\IPermissionService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\Interfaces\\IPermissionService.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\Services\\Interfaces\\IPermissionService.cs",
-              "RelativeToolTip": "BLL\\Services\\Interfaces\\IPermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Title": "PermissionRepositoryTest.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\PermissionRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Dall.Tests\\PermissionRepositoryTest.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\PermissionRepositoryTest.cs",
+              "RelativeToolTip": "Dall.Tests\\PermissionRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:43:08.908Z"
+              "WhenOpened": "2025-01-03T22:28:38.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T21:39:27.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T21:39:17.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IPermissionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IPermissionRepository.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IPermissionRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IPermissionRepository.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IPermissionRepository.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IPermissionRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IPermissionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T21:39:07.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OperationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\DTO\\OperationDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\OperationDTO.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\DTO\\OperationDTO.cs",
-              "RelativeToolTip": "BLL\\DTO\\OperationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:23:57.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PermissionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\DTO\\PermissionDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\PermissionDTO.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\BLL\\DTO\\PermissionDTO.cs",
-              "RelativeToolTip": "BLL\\DTO\\PermissionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:23:38.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SystemAdministrator.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\SystemAdministrator.cs",
-              "RelativeDocumentMoniker": "CLL\\Security\\Identity\\SystemAdministrator.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\SystemAdministrator.cs",
-              "RelativeToolTip": "CLL\\Security\\Identity\\SystemAdministrator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:46:32.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SafetyInspector.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\SafetyInspector.cs",
-              "RelativeDocumentMoniker": "CLL\\Security\\Identity\\SafetyInspector.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\SafetyInspector.cs",
-              "RelativeToolTip": "CLL\\Security\\Identity\\SafetyInspector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:45:45.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TechnicalSpecialist.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\TechnicalSpecialist.cs",
-              "RelativeDocumentMoniker": "CLL\\Security\\Identity\\TechnicalSpecialist.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\TechnicalSpecialist.cs",
-              "RelativeToolTip": "CLL\\Security\\Identity\\TechnicalSpecialist.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:44:05.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Entities\\User.cs",
-              "RelativeToolTip": "DAL\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:14:49.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\User.cs",
-              "RelativeDocumentMoniker": "CLL\\Security\\Identity\\User.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\Security\\Identity\\User.cs",
-              "RelativeToolTip": "CLL\\Security\\Identity\\User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:30:05.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SecurityContext.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\SecurityContext.cs",
-              "RelativeDocumentMoniker": "CLL\\SecurityContext.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\CLL\\SecurityContext.cs",
-              "RelativeToolTip": "CLL\\SecurityContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T19:49:44.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Impl\\BaseRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Impl\\BaseRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAjAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T15:10:04.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\EF\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\EF\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\EF\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\EF\\ApplicationDbContext.cs",
               "RelativeToolTip": "DAL\\EF\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T15:09:53.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IOperationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IOperationRepository.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IOperationRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IOperationRepository.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Interfaces\\IOperationRepository.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Interfaces\\IOperationRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IOperationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T15:09:50.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Operation.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Entities\\Operation.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Operation.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Entities\\Operation.cs",
-              "RelativeToolTip": "DAL\\Entities\\Operation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:09:45.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "OperationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Impl\\OperationRepository.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Impl\\OperationRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\OperationRepository.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\DAL\\Repositories\\Impl\\OperationRepository.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\DAL\\Repositories\\Impl\\OperationRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Impl\\OperationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T15:09:39.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "OperationRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\OperationRepositoryTests.cs",
+              "DocumentMoniker": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\OperationRepositoryTests.cs",
               "RelativeDocumentMoniker": "Dall.Tests\\OperationRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\GitHub\\AEC_\\Dall.Tests\\OperationRepositoryTests.cs",
+              "ToolTip": "D:\\trash\\\u0422\u0420\u041F\u0417\\AEC_\\Dall.Tests\\OperationRepositoryTests.cs",
               "RelativeToolTip": "Dall.Tests\\OperationRepositoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T12:28:20.827Z"
             }

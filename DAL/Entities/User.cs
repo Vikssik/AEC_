@@ -13,7 +13,6 @@ namespace Catalog.DAL.EF.Entities.Repositories.Impl.Interfaces
         public string PasswordHash { get; set; }
         public string Email { get; set; }
         public string StatusUser { get; set; }
-
     }
 
 }

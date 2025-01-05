@@ -50,3 +50,16 @@ C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.dll
 C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\trash\ТРПЗ\AEC_\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\trash\ТРПЗ\AEC_\DAL\bin\Debug\net8.0\DAL.dll
+D:\trash\ТРПЗ\AEC_\DAL\bin\Debug\net8.0\DAL.pdb
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.dll
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\DAL.pdb
+D:\trash\ТРПЗ\AEC_\DAL\obj\Debug\net8.0\ref\DAL.dll
