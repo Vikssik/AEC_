@@ -37,3 +37,16 @@ C:\Users\ThinkPad\Desktop\AEC\DAL\obj\Debug\net8.0\DAL.dll
 C:\Users\ThinkPad\Desktop\AEC\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\ThinkPad\Desktop\AEC\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\ThinkPad\Desktop\AEC\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ThinkPad\Documents\GitHub\AEC_\DAL\obj\Debug\net8.0\ref\DAL.dll
